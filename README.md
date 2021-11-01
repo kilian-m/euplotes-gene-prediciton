@@ -1,1 +1,1 @@
-# euplotes-gene-prediciton
+# euplotes-gene-prediction
